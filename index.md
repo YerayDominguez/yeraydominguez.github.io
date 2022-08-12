@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/YerayDominguez/yeraydominguez.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a freelance full-stack developer. I create fast, clean, and maintainable web applications, ready to scale from few users to thousands. I can help you deliver a seamless and engaging experience to your users. Background in computer science and ability as a full stack developer (front end and back end) allow me to create everything from small business websites to custom web applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have over 4 years of experience in delivering web applications and I like making life better through technology. My work currently consists of freelance clients and side projects. My freelance full stack development roots are in Java, Vue.js, Node.js and others.
 
-### Markdown
+I offer my services as a full stack developer for hire to work with businesses of all sizes. Feel free to get in touch. I’m available during the week to discuss and advise on your project or development needs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+yeray.dominguez.dev@gmail.com
 
-```markdown
-Syntax highlighted code block
+### What is a full stack developer ?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YerayDominguez/yeraydominguez.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A full stack developer has the functional knowledge and ability to take a concept and turn it into a finished product. A full stack developer should have knowledge in front end and back end development. Front end developers build the visible parts of applications that users see and interact with. Back end developers on the other hand, are responsible for building the parts the user does not see, which include core computational logic, server and database.
