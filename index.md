@@ -1,6 +1,6 @@
 ## About
 
-I am a freelance full-stack developer. I create fast, clean, and maintainable web applications, ready to scale from few users to thousands. I can help you deliver a seamless and engaging experience to your users. Background in computer science and ability as a full stack developer (front end and back end) allow me to create everything from small business websites to custom web applications.
+I am a full-stack developer. I create fast, clean, and maintainable web applications, ready to scale from few users to thousands. I can help you deliver a seamless and engaging experience to your users. Background in computer science and ability as a full stack developer (front end and back end) allow me to create everything from small business websites to custom web applications.
 
 I have over 4 years of experience in delivering web applications and I like making life better through technology. My work currently consists of freelance clients and side projects. My freelance full stack development roots are in Java, Vue.js, Node.js and others.
 
